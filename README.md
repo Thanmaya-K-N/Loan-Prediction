@@ -71,6 +71,3 @@ The performance of the LoanPredictor model is evaluated using various metrics, i
 
 Contributions to the LoanPredictor project are welcome. If you encounter any issues or have suggestions for enhancements, please open an issue or submit a pull request. We appreciate your contributions and feedback.
 
-## License
-
-The LoanPredictor project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code for your own purposes.
